@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE install PUBLIC "-//Joomla! 1.5//DTD template 1.0//EN" "http://dev.joomla.org/xml/1.5/template-install.dtd">
+<install version="1.5" type="template">
+  <name>portafolio</name>
+  <creationDate>10/12/08</creationDate>
+  <author>Jen Kramer McKibben</author>
+  <authorEmail>jen@4webinc.com</authorEmail>
+  <authorUrl>http://www.4webinc.com/</authorUrl>
+  <copyright>©2008 Lynda.com</copyright>
+  <license>Lynda.com</license>
+  <version>1.0.0</version>
+  <description>interior page for Bliss No. 5</description>
+  <files>
+    <filename>templateDetails.xml</filename>
+    <filename>index.php</filename>
+    <filename>template_thumbnail.png</filename>
+    <filename>css/default.css</filename>
+    <filename>images/bkgd.gif</filename>
+    <filename>images/footer.gif</filename>
+    <filename>images/logo.gif</filename>
+    <filename>images/tagline.gif</filename>
+  </files>
+  <positions>
+    <position>top</position>
+    <position>left</position>
+    <position>footer</position>
+  </positions>
+</install>
